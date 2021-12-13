@@ -26,4 +26,8 @@ Special Thanks
 =======
 Irony:http://irony.codeplex.com/
 
-VSLua:http://vslua.codeplex.com/
+VSLua:http://vslua.codeplex.com
+
+
+====================================== to support vs2019=======================
+===================================================================================
